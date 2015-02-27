@@ -1,5 +1,10 @@
 <? 
 echo "teste";
+
+
 phpinfo();
+
 ?>
+
+Olá
 
